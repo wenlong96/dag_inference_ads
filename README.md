@@ -15,4 +15,4 @@ the Cost-Per-Lead (CPL), a key metric for campaign effectiveness. This involves 
 implementing an advertising strategy, grounded in uncertainty modeling principles that maximizes
 the conversion of potential leads under the specific constraints posed by different clients. The project
 leverages annonymized past campaign data over a two year period to build a probabilistic graphical
-model capable of predicting campaign outcomes and guiding media buy settings and decisions
+model capable of predicting campaign outcomes and guiding media buy settings and decisions.
